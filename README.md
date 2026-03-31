@@ -2,8 +2,8 @@
 
 ## Student Details
 - Name: Yuvika Mukherjee
-- Registration Number: [Your Reg No.]
-- Branch: [Your Branch]
+- Registration Number: [25BSA10071]
+- Branch: [CSE(Cloud)]
 - Year: First Year
 - University: VIT Bhopal University
 
@@ -25,7 +25,7 @@ This project is created as part of the Digital Literacy course. It is based on t
 - LinkedIn
 
 ## Google Form Link
-(Paste your form link here)
+(https://docs.google.com/forms/d/e/1FAIpQLSdh636XqaZUdwDHWdnxiZEnbzlBreVOQ0p8qRQSbj62Qdc-kg/viewform?usp=header)
 
 ## Conclusion
 This project helped me understand the importance of digital literacy and how to use digital tools responsibly and professionally.
